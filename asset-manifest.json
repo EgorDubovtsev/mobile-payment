@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mobile-payment/static/css/main.3fd36bcc.chunk.css",
+    "main.js": "/mobile-payment/static/js/main.84326099.chunk.js",
+    "main.js.map": "/mobile-payment/static/js/main.84326099.chunk.js.map",
+    "runtime-main.js": "/mobile-payment/static/js/runtime-main.4729195a.js",
+    "runtime-main.js.map": "/mobile-payment/static/js/runtime-main.4729195a.js.map",
+    "static/js/2.cb31c721.chunk.js": "/mobile-payment/static/js/2.cb31c721.chunk.js",
+    "static/js/2.cb31c721.chunk.js.map": "/mobile-payment/static/js/2.cb31c721.chunk.js.map",
+    "index.html": "/mobile-payment/index.html",
+    "precache-manifest.662727a15500c32c8c9b7402acfd3999.js": "/mobile-payment/precache-manifest.662727a15500c32c8c9b7402acfd3999.js",
+    "service-worker.js": "/mobile-payment/service-worker.js",
+    "static/css/main.3fd36bcc.chunk.css.map": "/mobile-payment/static/css/main.3fd36bcc.chunk.css.map",
+    "static/js/2.cb31c721.chunk.js.LICENSE.txt": "/mobile-payment/static/js/2.cb31c721.chunk.js.LICENSE.txt",
+    "static/media/Payment.css": "/mobile-payment/static/media/bg.11972fb6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4729195a.js",
+    "static/js/2.cb31c721.chunk.js",
+    "static/css/main.3fd36bcc.chunk.css",
+    "static/js/main.84326099.chunk.js"
+  ]
+}
